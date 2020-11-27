@@ -1,0 +1,33 @@
+.block {max-width: 800px;
+	border: 5px solid 	#ffb3c6;
+	margin: 0 auto;
+	position: relative;
+}
+.block_1 {background-color: #ffffb3;
+	width: 200px;
+	height: 200px;
+line-height: 50px;
+text-align: center;
+font-size: 18px;
+font-weight: 70px;
+position: fixed;
+left: 50px;
+top: 20px;
+
+}
+.block_2 {background-color: #c6b3ff;
+line-height: 50px;
+text-align: center;
+font-size: 18px;
+font-weight: 70px;
+position: relative;
+}
+.block_3 {background-color: #b3ffff;
+line-height: 50px;
+text-align: center;
+font-size: 18px;
+font-weight: 70px;
+}
+.body {height: 2000px;
+padding: 30px;
+}
