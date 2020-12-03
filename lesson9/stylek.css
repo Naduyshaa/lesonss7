@@ -1,37 +1,37 @@
 div {
-   
-    
-    height: 400px;
+    height: 480px;
 }
 .one {
-	border: 1px solid #6666ff;
+	border: 1px solid #cccccc;
 	display: flex;
     flex-direction: row;
    justify-content: space-around;
-  
- 
 }
+
 .two {
-	background: linear-gradient(to top, #33ff33)
-	border: 1px solid #ff3333;
-	width: 300px;
+	background: linear-gradient(to right, #33ff33, #e6ffe6);
+	margin-top: 50px;
+	width: 350px;
 	height: 250px;
 }
 
 .car {
-	border: 1px solid #ff3333;
-	width: 300px;
+	background: linear-gradient(to right, #ffff00, #ffffe6);
+	margin-top: 50px;
+	width: 350px;
 	height: 250px;
 }
 
 .apple {
-	border: 1px solid #ff3333;
-	width: 300px;
+	background: linear-gradient(to right, #ff0000, #ffe6e6);
+	margin-top: 50px;
+	width: 350px;
 	height: 250px;
 }
 
 .banana {
-	border: 1px solid #ff3333;
-	width: 300px;
+	background: linear-gradient(to right, #0000ff, #e6e6ff);
+	margin-top: 50px;
+	width: 350px;
 	height: 250px;
 }
