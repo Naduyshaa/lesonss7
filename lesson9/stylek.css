@@ -1,0 +1,37 @@
+div {
+   
+    
+    height: 400px;
+}
+.one {
+	border: 1px solid #6666ff;
+	display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+  
+ 
+}
+.two {
+	background: linear-gradient(to top, #33ff33)
+	border: 1px solid #ff3333;
+	width: 300px;
+	height: 250px;
+}
+
+.car {
+	border: 1px solid #ff3333;
+	width: 300px;
+	height: 250px;
+}
+
+.apple {
+	border: 1px solid #ff3333;
+	width: 300px;
+	height: 250px;
+}
+
+.banana {
+	border: 1px solid #ff3333;
+	width: 300px;
+	height: 250px;
+}
